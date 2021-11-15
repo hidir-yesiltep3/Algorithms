@@ -41,4 +41,4 @@ def uglyNumber(n):
 if __name__ == '__main__':
     n = 150
     print(uglyNumber(n)) # Returns 5832
-
+ 
